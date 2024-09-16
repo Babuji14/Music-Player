@@ -14,7 +14,8 @@
     justify-content: center;
 }
 .music-player{
-    width: 400px;
+    width: 350px;
+    height: 530px;
     background-color: #ffe0e5;
 }
 .menu{
@@ -55,10 +56,10 @@
     border-radius: 50%;
     object-fit: cover;
 }
-.singer-name{
+.song-name{
     margin-top: 10px;
 }
-.song-name{
+.singer-name{
     font-size: 12px;
 }
 .song-info{
@@ -90,7 +91,7 @@
     box-shadow: 0 5px 5px rbga(255, 26, 26, 0.22);
 }
 .song-control{
-    width: 50%;
+    width: 55%;
 }
 .controls{
     display: flex;
